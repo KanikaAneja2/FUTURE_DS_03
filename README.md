@@ -100,12 +100,11 @@ Marketing-Funnel-Conversion-Performance-Analysis/
 
 ### Dashboard
 
-(Add **Dashboard.png** here)
+![Dashboard Preview](Dashboard.png)
 
 ### Report Page
 
-(Add **Report.png** here)
-
+![Report Page](Report.png)
 ---
 
 ## Author
